@@ -1,0 +1,242 @@
+[
+  {
+    "number": 101,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": null
+  },
+  {
+    "number": 102,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": null
+  },
+  {
+    "number": 103,
+    "expected_category": "documentation",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 104,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": null
+  },
+  {
+    "number": 105,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 106,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 107,
+    "expected_category": "bug",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 108,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 109,
+    "expected_category": "bug",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 110,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 111,
+    "expected_category": "documentation",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 112,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": null
+  },
+  {
+    "number": 113,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 114,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 115,
+    "expected_category": "bug",
+    "expected_severity": "critical",
+    "duplicate_of": null
+  },
+  {
+    "number": 116,
+    "expected_category": "documentation",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 117,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 118,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": 101
+  },
+  {
+    "number": 119,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 120,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 121,
+    "expected_category": "bug",
+    "expected_severity": "critical",
+    "duplicate_of": null
+  },
+  {
+    "number": 122,
+    "expected_category": "documentation",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 123,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 124,
+    "expected_category": "bug",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 125,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 126,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 127,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": null
+  },
+  {
+    "number": 128,
+    "expected_category": "documentation",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 129,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": 105
+  },
+  {
+    "number": 130,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 132,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 133,
+    "expected_category": "bug",
+    "expected_severity": "high",
+    "duplicate_of": 112
+  },
+  {
+    "number": 134,
+    "expected_category": "documentation",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 135,
+    "expected_category": "feature_request",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 136,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": 110
+  },
+  {
+    "number": 137,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 138,
+    "expected_category": "documentation",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 139,
+    "expected_category": "feature_request",
+    "expected_severity": "medium",
+    "duplicate_of": null
+  },
+  {
+    "number": 140,
+    "expected_category": "question",
+    "expected_severity": "low",
+    "duplicate_of": null
+  },
+  {
+    "number": 141,
+    "expected_category": "maintenance",
+    "expected_severity": "low",
+    "duplicate_of": null
+  }
+]
